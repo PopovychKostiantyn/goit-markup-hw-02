@@ -16,7 +16,7 @@
   }
   .logo{
     color: #4D5AE5;
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -104,7 +104,6 @@ text-align: center;
 }
 .team-list-item{
   background-color: #FFFFFF;
-
 }
 .team-list-header{
   font-weight: 500;
@@ -120,7 +119,7 @@ text-align: center;
   .page-footer {
     background-color: #2E2F42;
     color: #f4f4fd;
-    font-family: "Raleway", sans-serif
+    font-family: "Raleway", sans-serif;
   }
   .footer-logo .logo-part{
     color: #f4f4fd;
