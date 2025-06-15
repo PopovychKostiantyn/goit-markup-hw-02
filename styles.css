@@ -1,0 +1,88 @@
+  /* font-family: "Roboto", sans-serif;
+  font-family: "Raleway", sans-serif; */
+  body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #fff;
+  }
+  h3, h2{
+    color: #2E2F42;
+  }
+  ul, ol {
+    list-style-type: none;
+  }
+  a {
+    text-decoration: none;
+  }
+  .logo{
+    color: #4D5AE5;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 3%;
+    vertical-align: middle;
+    text-transform: uppercase;
+
+  }
+  .header-logo .logo-part{
+    color: #2E2F42;
+  }
+  .nav-link{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.17;
+    letter-spacing: 2%;
+    color: #2E2F42;
+
+  }
+  .nav-link:hover,
+  .nav-link:focus {
+    color: #404bbf;
+  }
+  .contacts {
+    font-style: normal;
+  }
+  .contacts-link {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+  }
+  .contacts-link:hover,
+  .contacts-link:focus {
+    color: #404bbf;
+  }
+.order-section {
+    color: #fff;
+    background-color: #2E2F42;
+}
+.order-section h1{
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+
+}
+.order-button{
+    background-color: #4D5AE5;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.team-section{
+    background-color: #F4F4FD;
+}
+
+
+
+  .page-footer {
+    background-color: #2E2F42;
+    color: #f4f4fd;
+  }
+  .footer-logo .logo-part{
+    color: #f4f4fd;
+  }
