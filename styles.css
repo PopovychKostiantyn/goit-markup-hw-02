@@ -16,7 +16,7 @@
   }
   .logo{
     color: #4D5AE5;
-    font-family: "Raleway" sans-serif;
+    font-family: Raleway sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -80,6 +80,17 @@ text-align: center;
  .order-button:focus{
   background-color: #404BBF
 }
+.value-header{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.paragraph{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+
+}
 .team-section{
     background-color: #F4F4FD;
 }
@@ -89,6 +100,7 @@ text-align: center;
   .page-footer {
     background-color: #2E2F42;
     color: #f4f4fd;
+    font-family: Raleway, sans-serif
   }
   .footer-logo .logo-part{
     color: #f4f4fd;
